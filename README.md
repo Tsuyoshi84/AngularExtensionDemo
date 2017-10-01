@@ -1,6 +1,6 @@
 # AngularExtensionDemo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
+これはAngularでChrome拡張を作成するデモです。詳しくは[Qiitaの記事](https://qiita.com/Tsuyoshi84/items/dee70252842813f1ce4b)をどうぞ。
 
 ## Development server
 
